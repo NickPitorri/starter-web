@@ -11,5 +11,7 @@ Sample website with plenty of files for demos
 ##Purpose
 
 ## Deployment
+This is a simple web project.
+
 
 ##How To Contribute
