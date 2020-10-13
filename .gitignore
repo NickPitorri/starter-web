@@ -1,3 +1,2 @@
-Specific file: myfile.exe
-File pattern: *.ext
-Folder: myfolder/
+.DS_Store
+log/
